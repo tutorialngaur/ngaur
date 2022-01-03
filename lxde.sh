@@ -18,7 +18,7 @@ read -p "choose ngrok region: " CRP
 clear
 echo "================================"
 echo "Wait Downloading file 3-4 minutes"
-echo "More free vps visit 👉akuh.net👈"
+echo "More free tutorial visit channel youtube MBAH NGAUR"
 echo "================================"
 sudo apt-get install lxde -y
 clear
